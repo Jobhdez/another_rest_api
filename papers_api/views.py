@@ -7,6 +7,6 @@ class ResearchPaperList(generics.ListCreateAPIView):
     serializer_class = SerializeResearchPaper
 
 class ResearchPaperDetail(generics.RetrieveDestroyAPIView):
-    queryset = ResearchPaper.objects.all
+    queryset = ResearchPaper.objects.all()
     serializer_class = SerializeResearchPaper
     
