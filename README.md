@@ -11,6 +11,7 @@ A simple rest api
          http://127.0.0.1:8000/api/
          
 to return the first post:
+
          http://127.0.0.1:8000/api/1
 
 # testing
