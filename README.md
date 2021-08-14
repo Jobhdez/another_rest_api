@@ -1,5 +1,5 @@
 # api
-A simple rest api
+A simple django rest api
 
 # how to interact with the api
          git clone https://github.com/Jobhdez/another_rest_api.git
